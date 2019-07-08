@@ -38,4 +38,12 @@ public class LazySingle {
         return lazySingle;
     }
 
+    public static void main(String[] args) {
+        for (int i = 0; i < 5; i++) {
+            System.out.println(LazySingle.getInstance1().hashCode());
+            System.out.println("---------------");
+            System.out.println(LazySingle.getInstance2().hashCode());
+        }
+    }
+
 }

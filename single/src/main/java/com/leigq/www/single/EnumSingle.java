@@ -20,4 +20,12 @@ public enum EnumSingle {
     public void whateverMethod() {
 
     }
+
+
+    // 测试
+    public static void main(String[] args) {
+        for (int i = 0; i < 5; i++) {
+            System.out.println(EnumSingle.INSTANCE.hashCode());
+        }
+    }
 }

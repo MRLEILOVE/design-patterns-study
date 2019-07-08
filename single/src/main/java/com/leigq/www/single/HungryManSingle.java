@@ -36,4 +36,12 @@ public class HungryManSingle {
     public static HungryManSingle getInstance2() {
         return single;
     }
+
+    public static void main(String[] args) {
+        for (int i = 0; i < 5; i++) {
+            System.out.println(HungryManSingle.getInstance1().hashCode());
+            System.out.println("--------------");
+            System.out.println(HungryManSingle.getInstance2().hashCode());
+        }
+    }
 }
