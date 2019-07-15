@@ -33,3 +33,5 @@
 ## 参考
 
 - [工厂方法模式（详解版）](http://c.biancheng.net/view/1348.html)
+
+- [JAVA设计模式之工厂模式—Factory Pattern](https://www.cnblogs.com/carryjack/p/7709861.html)
