@@ -1,5 +1,21 @@
 本项目是本人学习设计模式时写的案例代码。
 
+## 软件设计七大原则
+
+- [开闭原则](http://c.biancheng.net/view/1322.html)
+
+- [里氏替换原则](http://c.biancheng.net/view/1324.html)
+
+- [依赖倒置原则](http://c.biancheng.net/view/1326.html)
+
+- [单一职责原则](http://c.biancheng.net/view/1327.html)
+
+- [接口隔离原则](http://c.biancheng.net/view/1330.html)
+
+- [迪米特法则](http://c.biancheng.net/view/1331.html)
+
+- [合成复用原则](http://c.biancheng.net/view/1333.html)
+
 ## 分类
 
 ### 创建型
